@@ -386,5 +386,5 @@ int main(int argc, char const *argv[])
         commandHandler(token);
     }
 
-    return 0;
+    return EXIT_SUCCESS;
 }
