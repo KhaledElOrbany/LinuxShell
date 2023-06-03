@@ -6,5 +6,5 @@
   
 </div>
 
-## A linux Shell program written  in C.
-## It mimics some of the terminal's commands and utilises others.
+<p>A linux Shell program written  in C.</p>
+<p>It mimics some of the terminal's commands and utilises others.</p>
